@@ -1,0 +1,8 @@
+echo "# schoolproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/morganma99/schoolproject.git
+git push -u origin master
+
+I'm confused on this assignment but I'm checking it out. Hididng those files :) :0 
